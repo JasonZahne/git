@@ -1,3 +1,7 @@
 def sign_in
-    puts "Signing in"
+    puts "Signing In..."
+end
+
+
+def sign_out
 end
